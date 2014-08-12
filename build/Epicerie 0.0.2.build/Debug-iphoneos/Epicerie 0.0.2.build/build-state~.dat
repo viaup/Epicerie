@@ -1,0 +1,1310 @@
+TEpicerie 0.0.2
+v7
+r0
+t321254862.688576
+cCheck dependencies
+cCpResource "build/Debug-iphoneos/Epicerie 0.0.2.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/Info.plist" Epicerie_0_0_2-Info.plist
+cCompileXIB "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/MainWindow.xib"
+cCompileXIB "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/RootViewController.xib"
+cCompileXIB "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/WTHeaderView.xib"
+cCopyPNGFile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_my2.png" header_my2.png
+cCompileXIB "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.xib"
+cCompileXIB "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.xib"
+cCpResource "build/Debug-iphoneos/Epicerie 0.0.2.app/list.json" list.json
+cCpResource "build/Debug-iphoneos/Epicerie 0.0.2.app/header_my2.pxm" header_my2.pxm
+cCopyPNGFile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_littl.png" header_littl.png
+cCopyPNGFile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_bg.png" header_bg.png
+cCopyPNGFile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_bg2.png" header_bg2.png
+cProcessPCH /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch.gch Epicerie_0_0_2_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch.gch Epicerie_0_0_2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/main.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/Epicerie_0_0_2AppDelegate.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/Epicerie_0_0_2AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/RootViewController.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/EPItem.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPItem.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/EPList.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPList.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/GTHeaderView.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/GTHeaderView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/OverlayViewController.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/ListViewController.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CDataScanner.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CDataScanner_Extensions.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner_Extensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CFilteringJSONSerializer.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CFilteringJSONSerializer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONDeserializer.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONDeserializer_BlocksExtensions.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer_BlocksExtensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONScanner.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONScanner.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONSerializedData.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializedData.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONSerializer.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/NSDictionary_JSONExtensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/main.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/Epicerie_0_0_2AppDelegate.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/Epicerie_0_0_2AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/RootViewController.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/EPItem.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPItem.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/Epicerie 0.0.2" normal armv6
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/EPList.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPList.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/GTHeaderView.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/GTHeaderView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/OverlayViewController.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/ListViewController.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CDataScanner.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CDataScanner_Extensions.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner_Extensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CFilteringJSONSerializer.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CFilteringJSONSerializer.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONDeserializer.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONDeserializer_BlocksExtensions.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer_BlocksExtensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONScanner.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONScanner.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONSerializedData.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializedData.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONSerializer.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializer.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/NSDictionary_JSONExtensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/Epicerie 0.0.2" normal armv7
+cCreateUniversalBinary "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/Epicerie 0.0.2" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app.dSYM" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/Epicerie 0.0.2"
+cProcessProductPackaging "/Users/pviau/Library/MobileDevice/Provisioning Profiles/B41DBFD4-9ED1-4F32-B575-B01E18DA24E0.mobileprovision" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/embedded.mobileprovision"
+cTouch "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2.xcent"
+cCodeSign "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner.h
+c000000004D7266040000000000000A15
+t1299342852
+s2581
+i<Foundation/Foundation.h>
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner.m
+c000000004D72660400000000000020A7
+t1299342852
+s8359
+i"CDataScanner.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner_Extensions.h
+c000000004D72660400000000000005FB
+t1299342852
+s1531
+i"CDataScanner.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner_Extensions.m
+c000000004D7266040000000000001305
+t1299342852
+s4869
+i"CDataScanner_Extensions.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CFilteringJSONSerializer.h
+c000000004D72660400000000000002C3
+t1299342852
+s707
+i"CJSONSerializer.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CFilteringJSONSerializer.m
+c000000004D72660400000000000008DA
+t1299342852
+s2266
+i"CFilteringJSONSerializer.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer.h
+c000000004D72660400000000000009F8
+t1299342852
+s2552
+i<Foundation/Foundation.h>
+i"CJSONScanner.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer.m
+c000000004D726604000000000000105F
+t1299342852
+s4191
+i"CJSONDeserializer.h"
+i"CJSONScanner.h"
+i"CDataScanner.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer_BlocksExtensions.h
+c000000004D72660400000000000001E4
+t1299342852
+s484
+i"CJSONDeserializer.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer_BlocksExtensions.m
+c000000004D726604000000000000073D
+t1299342852
+s1853
+i"CJSONDeserializer_BlocksExtensions.h"
+i"CJSONScanner.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONScanner.h
+c000000004D7266040000000000000F59
+t1299342852
+s3929
+i"CDataScanner.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONScanner.m
+c000000004D726604000000000000621C
+t1299342852
+s25116
+i"CJSONScanner.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializedData.h
+c000000004D72660400000000000001FA
+t1299342852
+s506
+i<Foundation/Foundation.h>
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializedData.m
+c000000004D7266040000000000000274
+t1299342852
+s628
+i"CJSONSerializedData.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializer.h
+c000000004D726604000000000000086E
+t1299342852
+s2158
+i<Foundation/Foundation.h>
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializer.m
+c000000004D72660400000000000027B1
+t1299342852
+s10161
+i"CJSONSerializer.h"
+i"JSONRepresentation.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPItem.h
+c000000004D51786B0000000000000263
+t1297184875
+s611
+i<Foundation/Foundation.h>
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPItem.m
+c000000004D541246000000000000059E
+t1297355334
+s1438
+i"EPItem.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPList.h
+c000000004D563AA8000000000000024C
+t1297496744
+s588
+i<Foundation/Foundation.h>
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPList.m
+c000000004D563AFA0000000000000426
+t1297496826
+s1062
+i"EPList.h"
+i"EPItem.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/Epicerie_0_0_2AppDelegate.h
+c000000004D6D0D45000000000000027C
+t1298992453
+s636
+i<UIKit/UIKit.h>
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/Epicerie_0_0_2AppDelegate.m
+c000000004D6D22D50000000000000C05
+t1298997973
+s3077
+i"Epicerie_0_0_2AppDelegate.h"
+i"RootViewController.h"
+i"ListViewController.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/GTHeaderView.h
+c000000004D62ADF6000000000000021C
+t1298312694
+s540
+i<UIKit/UIKit.h>
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/GTHeaderView.m
+c000000004D63AFFF0000000000000315
+t1298378751
+s789
+i"GTHeaderView.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.h
+c000000004D6D377B000000000000027F
+t1299003259
+s639
+i<UIKit/UIKit.h>
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.m
+c000000004D7327C300000000000011E6
+t1299392451
+s4582
+i"ListViewController.h"
+i"RootViewController.h"
+i"EPItem.h"
+i"EPList.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.xib
+c000000004D6D1DA70000000000005676
+t1298996647
+s22134
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.h
+c000000004D67D7CB0000000000000175
+t1298651083
+s373
+i<UIKit/UIKit.h>
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.m
+c000000004D6BF4FA0000000000000683
+t1298920698
+s1667
+i"OverlayViewController.h"
+i"RootViewController.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.xib
+c000000004D67D5A70000000000003AEA
+t1298650535
+s15082
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.h
+c000000004D725C2600000000000004BE
+t1299340326
+s1214
+i<UIKit/UIKit.h>
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m
+c000000004D75BA510000000000003733
+t1299561041
+s14131
+i"RootViewController.h"
+i"OverlayViewController.h"
+i"EPList.h"
+i"EPItem.h"
+i"GTHeaderView.h"
+i"CJSONDeserializer.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/WTHeaderView.xib
+c000000004D75BC1D0000000000004E5C
+t1299561501
+s20060
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Epicerie_0_0_2_Prefix.pch
+c000000004D628936000000000000014E
+t1298303286
+s334
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/JSONRepresentation.h
+c000000004D7266040000000000000148
+t1299342852
+s328
+i<Foundation/Foundation.h>
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/MainWindow.xib
+c000000004D6D17F2000000000000734A
+t1298995186
+s29514
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/NSDictionary_JSONExtensions.h
+c000000004D72660400000000000005E6
+t1299342852
+s1510
+i<Foundation/Foundation.h>
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/NSDictionary_JSONExtensions.m
+c000000004D7266040000000000000703
+t1299342852
+s1795
+i"NSDictionary_JSONExtensions.h"
+i"CJSONDeserializer.h"
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/RootViewController.xib
+c000000004D6C7D770000000000005283
+t1298955639
+s21123
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app
+t1299562062
+s680
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app.dSYM
+t1299562060
+s102
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/Epicerie 0.0.2
+t1299562060
+s242564
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/Info.plist
+t1299562034
+s809
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/ListViewController.nib
+t1299562043
+s1108
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/MainWindow.nib
+t1299562045
+s1618
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/OverlayViewController.nib
+t1299562045
+s764
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/PkgInfo
+t1299562034
+s8
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/ResourceRules.plist
+t1299562034
+s485
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/RootViewController.nib
+t1299562040
+s1255
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/WTHeaderView.nib
+t1299562044
+s1928
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/embedded.mobileprovision
+t1299562060
+s7157
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_bg.png
+t1299562044
+s1098
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_bg2.png
+t1299562044
+s1064
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_littl.png
+t1299562044
+s8849
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_my2.png
+t1299562039
+s12455
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_my2.pxm
+t1299562043
+s28118
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/list.json
+t1299562043
+s3617
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2.xcent
+t1299562060
+s434
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CDataScanner.o
+t1299562056
+s28084
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CDataScanner_Extensions.o
+t1299562056
+s15672
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CFilteringJSONSerializer.o
+t1299562056
+s14616
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONDeserializer.o
+t1299562056
+s18188
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONDeserializer_BlocksExtensions.o
+t1299562056
+s18980
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONScanner.o
+t1299562057
+s42784
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONSerializedData.o
+t1299562056
+s10644
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONSerializer.o
+t1299562057
+s23000
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/EPItem.o
+t1299562056
+s15536
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/EPList.o
+t1299562056
+s13140
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/Epicerie 0.0.2
+t1299562059
+s119708
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/Epicerie 0.0.2.LinkFileList
+c000000004D75BE320000000000000BB4
+t1299562034
+s2996
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/Epicerie_0_0_2AppDelegate.o
+t1299562056
+s55728
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/GTHeaderView.o
+t1299562056
+s43564
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/ListViewController.o
+t1299562056
+s51504
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o
+t1299562057
+s9392
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/OverlayViewController.o
+t1299562056
+s40384
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/RootViewController.o
+t1299562056
+s78128
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/main.o
+t1299562056
+s6512
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CDataScanner.o
+t1299562057
+s27584
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CDataScanner_Extensions.o
+t1299562057
+s15440
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CFilteringJSONSerializer.o
+t1299562057
+s14472
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONDeserializer.o
+t1299562057
+s17988
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONDeserializer_BlocksExtensions.o
+t1299562057
+s18664
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONScanner.o
+t1299562057
+s39232
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONSerializedData.o
+t1299562057
+s10600
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONSerializer.o
+t1299562057
+s22592
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/EPItem.o
+t1299562057
+s15312
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/EPList.o
+t1299562057
+s12988
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/Epicerie 0.0.2
+t1299562059
+s115588
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/Epicerie 0.0.2.LinkFileList
+c000000004D75BE320000000000000BB4
+t1299562034
+s2996
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/Epicerie_0_0_2AppDelegate.o
+t1299562057
+s55616
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/GTHeaderView.o
+t1299562057
+s43404
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/ListViewController.o
+t1299562057
+s51368
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o
+t1299562057
+s9344
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/OverlayViewController.o
+t1299562057
+s40324
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/RootViewController.o
+t1299562057
+s77540
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/main.o
+t1299562057
+s6496
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/header_bg.png
+c000000004D75BBD20000000000000534
+t1299561426
+s1332
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/header_bg2.png
+c000000004D75BDA2000000000000056E
+t1299561890
+s1390
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/header_littl.png
+c000000004D7539710000000000002E24
+t1299528049
+s11812
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/header_my2.png
+c000000004D5E9D730000000000003EA8
+t1298046323
+s16040
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/header_my2.pxm
+c000000004D7538040000000000006DD6
+t1299527684
+s28118
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/list.json
+c000000004D753E8B0000000000000E21
+t1299529355
+s3617
+
+N/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/main.m
+c000000004D6289360000000000000170
+t1298303286
+s368
+i<UIKit/UIKit.h>
+
+N/Users/pviau/Library/MobileDevice/Provisioning Profiles/B41DBFD4-9ED1-4F32-B575-B01E18DA24E0.mobileprovision
+c000000004D430FD20000000000001BF5
+t1296240594
+s7157
+
+N/var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch.gch
+t1299562055
+s10446552
+
+N/var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch.gch
+t1299562054
+s9983704
+
+NEpicerie_0_0_2-Info.plist
+c000000004D628936000000000000038D
+t1298303286
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321254831#321254834#0(0"0(0#1#0"8648537024#0"0#
+
+CCodeSign "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app"
+s321254860.511399
+e321254862.688316
+r1
+xCodeSign
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app
+lSLF07#2@50"CodeSign "build/Debug-iphoneos/Epicerie 0.0.2.app"321254860#321254862#0(0"0(0#0#111"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app8600656768#822"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Pascal Viau (WRU7R7AJX8)" "--resource-rules=/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/ResourceRules.plist" --entitlements "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2.xcent" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CDataScanner.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.654950
+e321254856.823362
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CDataScanner.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner.m321254856#321254856#0(0"0(0#0#86"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner.m8659545536#2265"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CDataScanner.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CDataScanner_Extensions.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner_Extensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.669939
+e321254856.780175
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CDataScanner_Extensions.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner_Extensions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner_Extensions.m321254856#321254856#0(0"0(0#0#97"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner_Extensions.m8654664960#2287"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner_Extensions.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CDataScanner_Extensions.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CFilteringJSONSerializer.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CFilteringJSONSerializer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.743757
+e321254856.851483
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CFilteringJSONSerializer.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CFilteringJSONSerializer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CFilteringJSONSerializer.m321254856#321254856#0(0"0(0#0#98"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CFilteringJSONSerializer.m8629979392#2289"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CFilteringJSONSerializer.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CFilteringJSONSerializer.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONDeserializer.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.780336
+e321254856.895743
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONDeserializer.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer.m321254856#321254856#0(0"0(0#0#91"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer.m8626740704#2275"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONDeserializer.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONDeserializer_BlocksExtensions.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer_BlocksExtensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.816129
+e321254856.955714
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONDeserializer_BlocksExtensions.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer_BlocksExtensions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer_BlocksExtensions.m321254856#321254856#0(0"0(0#0#108"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer_BlocksExtensions.m8648739072#2309"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer_BlocksExtensions.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONDeserializer_BlocksExtensions.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONScanner.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONScanner.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.823535
+e321254857.044335
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONScanner.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONScanner.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONScanner.m321254856#321254857#0(0"0(0#0#86"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONScanner.m8645186944#2265"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONScanner.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONScanner.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONSerializedData.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializedData.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.851640
+e321254856.948228
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONSerializedData.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializedData.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializedData.m321254856#321254856#0(0"0(0#0#93"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializedData.m8642024736#2279"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializedData.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONSerializedData.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONSerializer.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.895907
+e321254857.072143
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONSerializer.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializer.m321254856#321254857#0(0"0(0#0#89"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializer.m8630246624#2271"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializer.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/CJSONSerializer.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/EPItem.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPItem.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.028450
+e321254856.464790
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/EPItem.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPItem.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPItem.m321254856#321254856#0(0"0(0#0#88"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPItem.m8656563616#2261"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPItem.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/EPItem.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/EPList.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPList.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.457328
+e321254856.654768
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/EPList.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPList.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPList.m321254856#321254856#0(0"0(0#0#88"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPList.m8646863808#2261"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPList.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/EPList.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/Epicerie_0_0_2AppDelegate.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/Epicerie_0_0_2AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.024888
+e321254856.620542
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/Epicerie_0_0_2AppDelegate.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/Epicerie_0_0_2AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/Epicerie_0_0_2AppDelegate.m321254856#321254856#0(0"0(0#0#107"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/Epicerie_0_0_2AppDelegate.m8659336832#2299"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/Epicerie_0_0_2AppDelegate.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/Epicerie_0_0_2AppDelegate.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/GTHeaderView.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/GTHeaderView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.464964
+e321254856.669769
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/GTHeaderView.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/GTHeaderView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/GTHeaderView.m321254856#321254856#0(0"0(0#0#94"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/GTHeaderView.m8641119904#2273"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/GTHeaderView.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/GTHeaderView.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/ListViewController.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.644215
+e321254856.815965
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/ListViewController.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.m321254856#321254856#0(0"0(0#0#100"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.m8654312480#2285"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/ListViewController.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/NSDictionary_JSONExtensions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.948384
+e321254857.036745
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/NSDictionary_JSONExtensions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/NSDictionary_JSONExtensions.m321254856#321254857#0(0"0(0#0#101"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/NSDictionary_JSONExtensions.m8658853280#2295"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/NSDictionary_JSONExtensions.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/OverlayViewController.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.620696
+e321254856.743343
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/OverlayViewController.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.m321254856#321254856#0(0"0(0#0#103"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.m8639732736#2291"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/OverlayViewController.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/RootViewController.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.026344
+e321254856.644054
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/RootViewController.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m:87: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m: At top level:
+o/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m:17: warning: 'MAX_SECTION_0_ROWS' defined but not used
+o/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m:17: warning: 'MAX_SECTION_1_ROWS' defined but not used
+lSLF07#2@108"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m321254856#321254856#0(895"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m:87: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m: At top level:/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m:17: warning: 'MAX_SECTION_0_ROWS' defined but not used/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m:17: warning: 'MAX_SECTION_1_ROWS' defined but not used4(22@180"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)321254856#172#295#0(6@100"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m321253841#87#0#87#0#33"'*' is deprecated (declared at *)0(23@13"At top level:321254856#467#116#0(6@100"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m321253841#0#0#0#0#0"0(22@41"'MAX_SECTION_0_ROWS' defined but not used321254856#583#156#0(6@100"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m321253841#17#0#17#0#24"'*' defined but not used0(22@41"'MAX_SECTION_1_ROWS' defined but not used321254856#739#156#0(6@100"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m321253841#17#0#17#0#24"'*' defined but not used0(0#0#100"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m8657770976#2285"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/RootViewController.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/main.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254856.023447
+e321254856.457146
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/main.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/main.m321254856#321254856#0(0"0(0#0#78"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/main.m8660537184#2249"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/main.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/main.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CDataScanner.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254857.322190
+e321254857.503340
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CDataScanner.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner.m321254857#321254857#0(0"0(0#0#86"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner.m8632043968#2265"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CDataScanner.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CDataScanner_Extensions.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner_Extensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254857.328786
+e321254857.455850
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CDataScanner_Extensions.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner_Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner_Extensions.m321254857#321254857#0(0"0(0#0#97"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner_Extensions.m8649529952#2287"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CDataScanner_Extensions.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CDataScanner_Extensions.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CFilteringJSONSerializer.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CFilteringJSONSerializer.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254857.456010
+e321254857.560360
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CFilteringJSONSerializer.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CFilteringJSONSerializer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CFilteringJSONSerializer.m321254857#321254857#0(0"0(0#0#98"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CFilteringJSONSerializer.m8658778432#2289"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CFilteringJSONSerializer.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CFilteringJSONSerializer.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONDeserializer.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254857.469306
+e321254857.590902
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONDeserializer.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer.m321254857#321254857#0(0"0(0#0#91"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer.m8607819232#2275"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONDeserializer.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONDeserializer_BlocksExtensions.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer_BlocksExtensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254857.503483
+e321254857.603353
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONDeserializer_BlocksExtensions.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer_BlocksExtensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer_BlocksExtensions.m321254857#321254857#0(0"0(0#0#108"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer_BlocksExtensions.m8608319712#2309"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONDeserializer_BlocksExtensions.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONDeserializer_BlocksExtensions.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONScanner.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONScanner.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254857.560553
+e321254857.734520
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONScanner.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONScanner.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONScanner.m321254857#321254857#0(0"0(0#0#86"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONScanner.m8655573024#2265"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONScanner.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONScanner.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONSerializedData.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializedData.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254857.591092
+e321254857.657736
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONSerializedData.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializedData.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializedData.m321254857#321254857#0(0"0(0#0#93"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializedData.m8660034336#2279"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializedData.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONSerializedData.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONSerializer.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializer.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254857.603509
+e321254857.736586
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONSerializer.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializer.m321254857#321254857#0(0"0(0#0#89"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializer.m8657806560#2271"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/CJSONSerializer.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/CJSONSerializer.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/EPItem.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPItem.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254857.044499
+e321254857.144496
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/EPItem.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPItem.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPItem.m321254857#321254857#0(0"0(0#0#88"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPItem.m8644797408#2261"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPItem.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/EPItem.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/EPList.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPList.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254857.144661
+e321254857.226050
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/EPList.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPList.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPList.m321254857#321254857#0(0"0(0#0#88"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPList.m8659624416#2261"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/EPList.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/EPList.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/Epicerie_0_0_2AppDelegate.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/Epicerie_0_0_2AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254857.031837
+e321254857.146359
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/Epicerie_0_0_2AppDelegate.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/Epicerie_0_0_2AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/Epicerie_0_0_2AppDelegate.m321254857#321254857#0(0"0(0#0#107"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/Epicerie_0_0_2AppDelegate.m8650278048#2299"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/Epicerie_0_0_2AppDelegate.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/Epicerie_0_0_2AppDelegate.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/GTHeaderView.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/GTHeaderView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254857.146500
+e321254857.307018
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/GTHeaderView.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/GTHeaderView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/GTHeaderView.m321254857#321254857#0(0"0(0#0#94"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/GTHeaderView.m8656817792#2273"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/GTHeaderView.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/GTHeaderView.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/ListViewController.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254857.307184
+e321254857.469127
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/ListViewController.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.m321254857#321254857#0(0"0(0#0#100"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.m8642174240#2285"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/ListViewController.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/NSDictionary_JSONExtensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254857.657889
+e321254857.735829
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/NSDictionary_JSONExtensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/NSDictionary_JSONExtensions.m321254857#321254857#0(0"0(0#0#101"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/NSDictionary_JSONExtensions.m8653941728#2295"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/NSDictionary_JSONExtensions.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/OverlayViewController.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254857.226221
+e321254857.328617
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/OverlayViewController.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.m321254857#321254857#0(0"0(0#0#103"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.m8652910144#2291"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/OverlayViewController.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/RootViewController.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254857.036916
+e321254857.321979
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/RootViewController.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m:87: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+o/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m: At top level:
+o/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m:17: warning: 'MAX_SECTION_0_ROWS' defined but not used
+o/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m:17: warning: 'MAX_SECTION_1_ROWS' defined but not used
+lSLF07#2@108"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m321254857#321254857#0(895"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m:87: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m: At top level:/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m:17: warning: 'MAX_SECTION_0_ROWS' defined but not used/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m:17: warning: 'MAX_SECTION_1_ROWS' defined but not used4(22@180"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)321254857#172#295#0(6@100"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m321253841#87#0#87#0#33"'*' is deprecated (declared at *)0(23@13"At top level:321254857#467#116#0(6@100"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m321253841#0#0#0#0#0"0(22@41"'MAX_SECTION_0_ROWS' defined but not used321254857#583#156#0(6@100"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m321253841#17#0#17#0#24"'*' defined but not used0(22@41"'MAX_SECTION_1_ROWS' defined but not used321254857#739#156#0(6@100"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m321253841#17#0#17#0#24"'*' defined but not used0(0#0#100"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m8647450368#2285"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/RootViewController.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/RootViewController.o"0#
+
+CCompileC "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/main.o" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254856.955878
+e321254857.031690
+r1
+xCompileC
+xbuild/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/main.o
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/main.m321254856#321254857#0(0"0(0#0#78"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/main.m8656980832#2249"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -include /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/main.m" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.xib"
+s321254841.202934
+e321254843.818601
+r1
+xCompileXIB
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.xib
+lSLF07#2@41"CompileXIB Classes/ListViewController.xib321254841#321254843#0(0"0(0#0#102"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.xib8656951936#678"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/ListViewController.nib" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/ListViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.xib"
+s321254839.216999
+e321254845.486231
+r1
+xCompileXIB
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.xib
+lSLF07#2@44"CompileXIB Classes/OverlayViewController.xib321254839#321254845#0(0"0(0#0#105"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.xib8657225088#684"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/OverlayViewController.nib" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/OverlayViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/WTHeaderView.xib"
+s321254834.773109
+e321254844.852257
+r1
+xCompileXIB
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/WTHeaderView.xib
+lSLF07#2@35"CompileXIB Classes/WTHeaderView.xib321254834#321254844#0(0"0(0#0#96"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/WTHeaderView.xib8650651904#666"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/WTHeaderView.nib" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Classes/WTHeaderView.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/MainWindow.xib"
+s321254834.771049
+e321254845.362928
+r1
+xCompileXIB
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321254834#321254845#0(0"0(0#0#86"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/MainWindow.xib8660581856#654"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/MainWindow.nib" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/RootViewController.xib"
+s321254834.772173
+e321254841.202625
+r1
+xCompileXIB
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib321254834#321254841#0(0"0(0#0#94"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/RootViewController.xib8652238176#670"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/RootViewController.nib" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/RootViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_bg.png" header_bg.png
+s321254844.767468
+e321254844.966618
+r1
+xCopyPNGFile
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_bg.png
+xheader_bg.png
+lSLF07#2@81"CopyPNGFile "build/Debug-iphoneos/Epicerie 0.0.2.app/header_bg.png" header_bg.png321254844#321254844#0(0"0(0#0#85"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/header_bg.png8658680640#678"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/header_bg.png" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_bg.png"0#
+
+CCopyPNGFile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_bg2.png" header_bg2.png
+s321254844.852411
+e321254845.125567
+r1
+xCopyPNGFile
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_bg2.png
+xheader_bg2.png
+lSLF07#2@83"CopyPNGFile "build/Debug-iphoneos/Epicerie 0.0.2.app/header_bg2.png" header_bg2.png321254844#321254845#0(0"0(0#0#86"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/header_bg2.png8658017632#680"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/header_bg2.png" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_bg2.png"0#
+
+CCopyPNGFile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_littl.png" header_littl.png
+s321254843.883120
+e321254844.767330
+r1
+xCopyPNGFile
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_littl.png
+xheader_littl.png
+lSLF07#2@87"CopyPNGFile "build/Debug-iphoneos/Epicerie 0.0.2.app/header_littl.png" header_littl.png321254843#321254844#0(0"0(0#0#88"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/header_littl.png8656924640#684"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/header_littl.png" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_littl.png"0#
+
+CCopyPNGFile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_my2.png" header_my2.png
+s321254834.774247
+e321254839.216632
+r1
+xCopyPNGFile
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_my2.png
+xheader_my2.png
+lSLF07#2@83"CopyPNGFile "build/Debug-iphoneos/Epicerie 0.0.2.app/header_my2.png" header_my2.png321254834#321254839#0(0"0(0#0#86"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/header_my2.png8650009280#680"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/header_my2.png" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/header_my2.png"0#
+
+CCpResource "build/Debug-iphoneos/Epicerie 0.0.2.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s321254834.685539
+e321254834.726964
+r1
+xCpResource
+xbuild/Debug-iphoneos/Epicerie 0.0.2.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist321254834#321254834#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8606553600#571"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app"0#
+
+CCpResource "build/Debug-iphoneos/Epicerie 0.0.2.app/header_my2.pxm" header_my2.pxm
+s321254843.819725
+e321254843.889938
+r1
+xCpResource
+xbuild/Debug-iphoneos/Epicerie 0.0.2.app/header_my2.pxm
+xheader_my2.pxm
+lSLF07#2@19"Copy header_my2.pxm321254843#321254843#0(0"0(0#0#86"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/header_my2.pxm8657697504#570"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/header_my2.pxm" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app"0#
+
+CCpResource "build/Debug-iphoneos/Epicerie 0.0.2.app/list.json" list.json
+s321254843.818898
+e321254843.889086
+r1
+xCpResource
+xbuild/Debug-iphoneos/Epicerie 0.0.2.app/list.json
+xlist.json
+lSLF07#2@14"Copy list.json321254843#321254843#0(0"0(0#0#81"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/list.json8658784000#565"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/list.json" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app"0#
+
+CCreateUniversalBinary "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/Epicerie 0.0.2" normal "armv6 armv7"
+s321254860.134929
+e321254860.168857
+r1
+xCreateUniversalBinary
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/Epicerie 0.0.2
+xnormal
+xarmv6 armv7
+lSLF07#2@99"CreateUniversalBinary "build/Debug-iphoneos/Epicerie 0.0.2.app/Epicerie 0.0.2" normal "armv6 armv7"321254860#321254860#0(0"0(0#0#83"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/armv6 armv78657363968#714"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/Epicerie 0.0.2" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/Epicerie 0.0.2" -output "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/Epicerie 0.0.2"0#
+
+CGenerateDSYMFile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app.dSYM" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/Epicerie 0.0.2"
+s321254860.168990
+e321254860.401089
+r1
+xGenerateDSYMFile
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app.dSYM
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/Epicerie 0.0.2
+lSLF07#2@120"GenerateDSYMFile "build/Debug-iphoneos/Epicerie 0.0.2.app.dSYM" "build/Debug-iphoneos/Epicerie 0.0.2.app/Epicerie 0.0.2"321254860#321254860#0(0"0(0#0#126"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/Epicerie 0.0.28654566784#488"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/Epicerie 0.0.2" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app.dSYM"0#
+
+CLd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/Epicerie 0.0.2" normal armv6
+s321254857.072297
+e321254860.134758
+r1
+xLd
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/Epicerie 0.0.2
+xnormal
+xarmv6
+lSLF07#2@175"Link /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/Epicerie 0.0.2321254857#321254860#0(0"0(0#0#0"8642025184#1076"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" -filelist "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/Epicerie 0.0.2.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv6/Epicerie 0.0.2"0#
+
+CLd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/Epicerie 0.0.2" normal armv7
+s321254857.736650
+e321254859.775664
+r1
+xLd
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/Epicerie 0.0.2
+xnormal
+xarmv7
+lSLF07#2@175"Link /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/Epicerie 0.0.2321254857#321254859#0(0"0(0#0#0"8659441184#1076"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" -filelist "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/Epicerie 0.0.2.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Objects-normal/armv7/Epicerie 0.0.2"0#
+
+CProcessInfoPlistFile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/Info.plist" Epicerie_0_0_2-Info.plist
+s321254834.686500
+e321254834.770895
+r1
+xProcessInfoPlistFile
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/Info.plist
+xEpicerie_0_0_2-Info.plist
+lSLF07#2@33"Process Epicerie_0_0_2-Info.plist321254834#321254834#0(0"0(0#0#97"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Epicerie_0_0_2-Info.plist8599534112#730"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Epicerie_0_0_2-Info.plist -genpkginfo "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/ResourceRules.plist" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/Info.plist"0#
+
+CProcessPCH /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch.gch Epicerie_0_0_2_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321254845.487706
+e321254856.023288
+r1
+xProcessPCH
+x/var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch.gch
+xEpicerie_0_0_2_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile Epicerie_0_0_2_Prefix.pch321254845#321254856#0(0"0(0#0#97"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Epicerie_0_0_2_Prefix.pch8656346656#2105"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv7" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Epicerie_0_0_2_Prefix.pch" -o /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-bcxlmbrcdcrjoxgjmqyirvvdyezw/Epicerie_0_0_2_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch.gch Epicerie_0_0_2_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321254845.486416
+e321254855.177600
+r1
+xProcessPCH
+x/var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch.gch
+xEpicerie_0_0_2_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile Epicerie_0_0_2_Prefix.pch321254845#321254855#0(0"0(0#0#97"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Epicerie_0_0_2_Prefix.pch8651195840#2105"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-generated-files.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-own-target-headers.hmap" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-all-target-headers.hmap" -iquote "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2-project-headers.hmap" "-F/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/include" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources/armv6" "-I/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/DerivedSources" -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/Epicerie_0_0_2_Prefix.pch" -o /var/folders/Gc/GcgdVGQZFzWPXqlyxtYgrE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Epicerie_0_0_2_Prefix-hbwiorvpjgakzqdbztwnlrnfsjfv/Epicerie_0_0_2_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/pviau/Library/MobileDevice/Provisioning Profiles/B41DBFD4-9ED1-4F32-B575-B01E18DA24E0.mobileprovision" "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/embedded.mobileprovision"
+s321254860.401200
+e321254860.413615
+r1
+xProcessProductPackaging
+x/Users/pviau/Library/MobileDevice/Provisioning Profiles/B41DBFD4-9ED1-4F32-B575-B01E18DA24E0.mobileprovision
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/embedded.mobileprovision
+lSLF07#2@201"ProcessProductPackaging "/Users/pviau/Library/MobileDevice/Provisioning Profiles/B41DBFD4-9ED1-4F32-B575-B01E18DA24E0.mobileprovision" "build/Debug-iphoneos/Epicerie 0.0.2.app/embedded.mobileprovision"321254860#321254860#0(0"0(0#0#136"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/embedded.mobileprovision8642313504#500"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/pviau/Library/MobileDevice/Provisioning Profiles/B41DBFD4-9ED1-4F32-B575-B01E18DA24E0.mobileprovision" -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2.xcent"
+s321254860.458853
+e321254860.511278
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2.xcent
+lSLF07#2@198"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2.xcent"321254860#321254860#0(0"0(0#0#155"/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2.xcent8607822944#523"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Epicerie 0.0.2.build/Debug-iphoneos/Epicerie 0.0.2.build/Epicerie 0.0.2.xcent"0#
+
+CTouch "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app"
+s321254860.413784
+e321254860.458698
+r1
+xTouch
+x/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app
+lSLF07#2@117"Touch /Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app321254860#321254860#0(0"0(0#0#0"8627074784#341"    cd "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/pviau/Dropbox/pascal/programmation/cocoa/Epicerie/Epicerie 0.0.3/build/Debug-iphoneos/Epicerie 0.0.2.app"0#
+
